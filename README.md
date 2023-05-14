@@ -7,4 +7,11 @@ Welcome to my awesome meetup knowledge Sharing Series from AWS Data User Group B
 
 
 ## Session 2
-[![Session 2 ](https://img.shields.io/badge/GitHub-Session%202-blue)](https://github.com/aws-data-usergroup-bangalore/sagemaker-mlops)
+[![Session 2 ](https://img.shields.io/badge/GitHub-Session%202-blue)](https://github.com/aws-data-usergroup-bangalore/sagemaker-mlops/tree/main/presentation/session-2)
+
+
+## Session 3
+[![Session 3 ](https://img.shields.io/badge/GitHub-Session%203-blue)](https://github.com/aws-data-usergroup-bangalore/sagemaker-mlops/tree/main/presentation/session-3)
+
+## Session 4
+[![Session 4 ](https://img.shields.io/badge/GitHub-Session%204-blue)](https://github.com/aws-data-usergroup-bangalore/sagemaker-mlops/tree/main/presentation/session-4)
