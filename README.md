@@ -17,3 +17,4 @@ Welcome to my awesome meetup knowledge Sharing Series from AWS Data User Group B
 
 ## Session 4
 [![Session 4 ](https://img.shields.io/badge/GitHub-Session%204-blue)](https://github.com/aws-data-usergroup-bangalore/sagemaker-mlops/tree/main/presentation/session-4)
+# gen-ai-101
